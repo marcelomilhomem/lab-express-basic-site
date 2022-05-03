@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Babylonica&family=Bellefair&family=Dangrek&family=Montserrat:ital,wght@1,100&display=swap");
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  padding-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 5px solid black;
+  background-color: white;
+  font-size: 30px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background-color: white;
+  width: 100px;
+}
+
+
+body {
+  margin: auto;
+  width: 80%;
+  font-family: "Monospace", Lucida Console;
+  background-image: url("/images/stan-lee-background.jpg");
+  background-size: contain; 
+}
+
+.main-div {
+  gap: 2rem;
+}
+
+.article-work {
+  text-align: left;
+  color: white;
+  background-color: black;
+}
+
+.spider-man-s {
+  width: 90px;
+  height: 80px;
+}
+
+.iron-man-s {
+  width: 160px;
+  height: 80px;
+}
+
+.thor-s {
+  width: 80px;
+  height: 80px;
+}
+
+.strange-s {
+  width: 80px;
+  height: 80px;
+}
+

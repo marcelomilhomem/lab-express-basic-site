@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Babylonica&family=Bellefair&family=Dangrek&family=Montserrat:ital,wght@1,100&display=swap");
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  padding-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 5px solid black;
+  background-color: white;
+  font-size: 30px;
+}
+
+body {
+  margin: auto;
+  width: 80%;
+  font-family: "Monospace", Lucida Console;
+  background-image: url("/images/spider-man-background2.jpg");
+  background-size: contain;
+}
+
+.article-about-1 {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+}
+
+.article-about-2 {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+}
+
+div {
+  margin-top: 100px; 
+  display: flex;
+  gap: 2rem;
+}
